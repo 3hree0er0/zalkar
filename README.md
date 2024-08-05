@@ -1,2 +1,90 @@
 # zalkar
-kung fu panda
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Кунг-фу Панда</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ffcc00;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1, h2 {
+            color: #ff6600;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #333;
+            color: #fff;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Кунг-фу Панда</h1>
+    </header>
+    <div class="container">
+        <div class="content">
+            <img src="https://upload.wikimedia.org/wikipedia/ru/5/50/Kungfupanda_poster.jpg" alt="">
+            <h2>О фильме</h2>
+            <img src="https://opis-cdn.tinkoffjournal.ru/mercury/kung-fu-panda-4-review-in-out.zy7kgud4ytt6..jpg" alt="">
+            <p>"Кунг-фу Панда" – это анимационный фильм, выпущенный в 2008 году. История рассказывает о толстом и неуклюжем панде по имени По, который мечтает стать мастером кунг-фу. Несмотря на все преграды и насмешки, По оказывается в центре судьбоносного события, когда его выбирают для борьбы с ужасным злодеем, который угрожает всему Китаю.</p>
+            
+            <h2>Персонажи</h2>
+            <p>По (англ. Po) — большая панда — главный герой мультфильма.</p>
+            <img height="15" src="https://www.vokrug.tv/pic/person/5/e/3/a/5e3a5dce34da50a60def144e469a63f6.jpeg" alt="">
+            <p>Мастер Ши́фу (англ. Master Shifu) — малая панда — учитель По и Неистовой Пятёрки. </p>
+            <img height="15" src="https://lifehacker.ru/wp-content/uploads/2024/03/0_1711211758.jpg" alt="">
+            <p>Мастер Тигри́ца (англ. Master Tigress) — южно-китайский тигр — самая решительная и отважная из «Неистовой Пятёрки». Она дружелюбна, хотя скромна и необщительна</p>
+            <img src="https://sun9-45.userapi.com/impf/_vIe4l2Op0Y2dosia3Sgd89_tErSbiRcF4LSAg/X3j5Q3UYuVo.jpg?size=320x353&quality=96&sign=e10ad68f5f08048fcf99c06f2dc2c8ff&type=album" alt="">
+            <p>Мастер Жура́вль (англ. Master Crane) — черношейный журавль — самый спокойный и терпеливый из Неистовой Пятёрки.</p>
+            <img src="https://starwars-galaxy.ru/800/600/http/i.pinimg.com/originals/16/01/79/1601796b3fae85a56d0abb35d1fc7ad9.png" alt="">
+            <p>Мастер Обезья́на (англ. Master Monkey) — золотой лангур — самый дружелюбный и весёлый участник Неистовой Пятёрки.</p>
+            <img src="https://ru.wikifur.com/w/images/thumb/6/61/MonkeyKFP2.jpg/800px-MonkeyKFP2.jpg" alt="">
+            <p>Мастер Богомо́л (англ. Master Mantis) — китайский богомол — самый маленький из Пятёрки. Несмотря на свои размеры, по силе он ничуть не уступает другим членам Пятёрки</p>
+            <img src="https://sun9-19.userapi.com/c1938/u51267293/96993891/x_a7aefbda.jpg" alt="">
+            <p>Мастер Гадю́ка (англ. Master Viper) — бирманская гадюка-фея — зелёная змея с двумя маленькими цветками лотоса на голове.</p>
+            <img src="https://slovnet.ru/wp-content/uploads/2018/09/3-19.png" alt="">
+            <p>Мастер Угве́й (англ. Grand Master Oogway) — галапагосская черепаха — наставник Шифу. Именно он увидел в По Избранного и выбрал его Воином Дракона. Угвэй был единственным, кто поддерживал По от начала и до конца.</p>
+
+
+            <h2>Трейлер</h2>
+            <p>Посмотрите трейлер фильма на <a href="https://www.youtube.com/watch?v=PXi3MfE9s1Q" target="_blank">YouTube</a>.</p>
+            
+        </div>
+    </div>
+    <footer>
+        <p>&copy;  в фильме не постродал ни один негр</p>
+    </footer>
+</body>
+</html>
+
